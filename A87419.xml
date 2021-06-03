@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The joyfullest nevves from Hull that ever came to London. Read in both Houses of Parliament, August 12. 1642. Wherein is declared the proceedings of the Earle of Warwickes ships in the River Humber, how they have taken divers ships that were sent from the Queen to the King with great store of ammunition for warre, and 300000. pounds of mony, which they sent to Sir Iohn Hotham. As also divers brave horses which he sent to the Lords to be preferred to both Houses of Parliament. Ordered that this be printed and published, Hen. Elsing, Cler. Parl. D. Com.</title>
+            <title>Joyfullest newes from Hull that ever came to London.</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87419</idno><idno type="EEBO-CITATION">99866086</idno>
+  <idno type="VID">118346</idno>
+  <idno type="EEBO-PROQUEST">2240945000</idno>
+  
+            <idno type="STC">Wing J1155</idno>
+            <idno type="STC">Thomason E112_19</idno>
+            <idno type="STC">ESTC R20701</idno>
+            <idno type="PROQUEST">99866086</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99866086e"/>
+            <note>(EEBO-TCP ; phase 2, no. A87419)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118346)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 20:E112[19])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The joyfullest nevves from Hull that ever came to London. Read in both Houses of Parliament, August 12. 1642. Wherein is declared the proceedings of the Earle of Warwickes ships in the River Humber, how they have taken divers ships that were sent from the Queen to the King with great store of ammunition for warre, and 300000. pounds of mony, which they sent to Sir Iohn Hotham. As also divers brave horses which he sent to the Lords to be preferred to both Houses of Parliament. Ordered that this be printed and published, Hen. Elsing, Cler. Parl. D. Com.</title>
+                  <title>Joyfullest newes from Hull that ever came to London.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>August 17. Printed by T. Fawcet for T.R.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Reproductions of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term type="personal_name">Warwick, Robert Rich, --  Earl of, 1587-1658 --  Early works to 1800.</term>
+               <term type="geographic_name">Hull (England) --  History --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Naval operations --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118346:1"/>
+            <pb facs="tcp:118346:1"/>
+            <p> The Joyfullest NEVVES FROM HVLL That ever came to LONDON.</p>
+            <p>Read in both Houses of Parliament, <hi>August</hi> 12. 1642.</p>
+            <p>WHEREIN Is declared the proceedings of the Earle of <hi>War<g ref="char:EOLhyphen"/>wickes</hi> Ships in the River <hi>Humber,</hi> how they have taken divers Ships that were sent from the Queen to the King with great store of Ammunition for Warre, and 300000. pounds of mony, which they sent to Sir <hi>Iohn Hotham.</hi>
+            </p>
+            <p>AS ALSO Divers brave Horses which he sent to the Lords to be preferred to both Houses of Parliament.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Ordered that this be printed and published,</p>
+                        <closer>
+                           <signed>Hen, Elsing, Cler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>August</hi> 17. Printed by <hi>T. Fawcet</hi> for <hi>T. R.</hi>
+            </p>
+            <pb facs="tcp:118346:2"/>
+         </div>
+      </front>
+      <body>
+         <div n="very joyful" type="text">
+            <pb n="1" facs="tcp:118346:2"/>
+            <head>Very Joyfull Newes from HULL.</head>
+            <p>
+               <seg rend="decorInit">M</seg>Any and sundry times have wee received Newes from the Nor herne parts, of the present estate of this King<g ref="char:EOLhyphen"/>dome, some joyfull and some terrible, but heere (God willing) I will relate the true and perfect Relation of a joyfull Message sent from <hi>Hull</hi> to both Houses of PARLIAMENT, <hi>viz.</hi> Upon the Twelfth day of this instant moneth of <hi>August,</hi> 1642. there was happie and joy<g ref="char:EOLhyphen"/>full Newes came to both Houses of Par<g ref="char:EOLhyphen"/>liament from <hi>Hull,</hi> wherein was declared the taking of one Ship neare <hi>Hull,</hi> the manner was as followeth:</p>
+            <pb n="2" facs="tcp:118346:3"/>
+            <p> His Majesty having formerly writ to His Royall Consort the Queene, for Am<g ref="char:EOLhyphen"/>munition and divers other businesses belonging to warre, and moreover His Highnesse desired her to send him some store of Monies with all possible speed, which Her Majesty taking into conside<g ref="char:EOLhyphen"/>ration, forthwith resolved to send for monies to some of Her intimate Friends, and having gathered a summe of 300000. pounds, shee sought all possible meanes for the safe transporting of it over to His Majesty, and having got and pre<g ref="char:EOLhyphen"/>pared two Shippes, the Masters of the said Shippes hoysed sayle, and having a faire wind, came with all speed towards the Northerne parts of <hi>England,</hi> being resolved to send the said Monies to <hi>New-Castle,</hi> but before they could arrive at the said Towne, they were met withall at the Sea by the Right Honourable the Earle of <hi>Warwick</hi> with some three ships, but they seeing the Earle of <hi>Warwicke</hi>
+               <pb n="3" facs="tcp:118346:3"/> neere them, they set sayle with all possi<g ref="char:EOLhyphen"/>ble speed, the said Earle still pursuing of them very close, one of them being but a Vessell and very fleet of sayle, shee got cleare of the Earle of <hi>Warwicke,</hi> but the other Shippe hee still chased, and after some time he drove her into <hi>Hull,</hi> the said Shippe having in her at the least 300. thousand pounds, all which being sent from the Queenes Majesty to the King, the Master of the said. Shippe ha<g ref="char:EOLhyphen"/>ving order to land her at <hi>New-castle,</hi> but praised be God they were prevented, for by the great vigilance of the Earle of <hi>Warwicke,</hi> he chased her so fast that hee drove her into <hi>Hull,</hi> it being comforta<g ref="char:EOLhyphen"/>ble Newes to all those that are well<g ref="char:EOLhyphen"/>wishers to the dispearst of Sion, and true Subjects to His Majesty, which said ty<g ref="char:EOLhyphen"/>dings were sent to both Houses of Par<g ref="char:EOLhyphen"/>liament, and openly read in the presence of the Lords and Commons u<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ō the 12: day of this in t<gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> M<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>h of <hi>August</hi> the
+<pb n="4" facs="tcp:118346:4"/> said Earle of <hi>Warwicke</hi> hath also by his vigilency and care, being willing and de<g ref="char:EOLhyphen"/>sirous to performe that trust as neere as possibly he can which the High Court of Parliament hath reposed in Him, and prove himselfe a true and loyall Sub<g ref="char:EOLhyphen"/>ject to His Majesty, and a good States<g ref="char:EOLhyphen"/>man to the Kingdome of <hi>England,</hi> the said Earle of <hi>Warwick</hi> having intelligence of the treacherous actions of Colonell <hi>Goring,</hi> in betraying that trust which both Houses of Parliament had reposed in him, was not a little moved at those sad tydings, but immediately sent forth five Shippes for the safety and security of the said Towne of <hi>Portsmouth,</hi> hee having intelligence that there was some preparations beyond the Seas, and that hee thought and conceived there were some Shippes ready to set forth from to<g ref="char:EOLhyphen"/>wards <hi>Du<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>kirke,</hi> for the aiding and assist<g ref="char:EOLhyphen"/>ing of Colonell <hi>Goring;</hi> the Lord for the further preventing of all such conspira<g ref="char:EOLhyphen"/>cies,
+<pb n="5" facs="tcp:118346:4"/> hee is resolved to send some more Shippes to the said Towne, and also in<g ref="char:EOLhyphen"/>formed both Houses of Parliament of this sending the five Shippes to <hi>Ports<g ref="char:EOLhyphen"/>mouth.</hi>
+            </p>
+         </div>
+         <div n="exceeding joyful" type="text">
+            <head>Exceeding joyfull Newes from the Narrow. Seas, declaring how the Earle of <hi>Warwick</hi> hath taken a great Ship with much Ammuni<g ref="char:EOLhyphen"/>tion, and also divers brave Horses which <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ee sent <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>p to the Lords to be presented to both Houses of Parliament.</head>
+            <p>
+               <seg rend="decorInit">S</seg>Till doth the Lord of Hosts strive to beat downe the Malig<g ref="char:EOLhyphen"/>nant Partie, as may appeare by these insuing Particulars following:</p>
+            <p>The Kings Majestie having sent to the <hi>Queene</hi> for Ammunition and Horse to be sent forthwith with all speed, her Maje<g ref="char:EOLhyphen"/>stie being willing to pleasure His Maje<g ref="char:EOLhyphen"/>stie with such things as shee could, pre<g ref="char:EOLhyphen"/>pared
+<pb n="6" facs="tcp:118346:5"/> to send of the primest Horses in those parts, and sent to His Majestie 40 and odde, but before they could be transported to His Majesty the Earle of <hi>Warwicke</hi> met with them and sent them to <hi>London,</hi> and must be presented to the honourable Houses of Par<g ref="char:EOLhyphen"/>liament, and there was brought the Fifteenth day of this Moneth to the <hi>Artillery</hi> Garden.</p>
+            <p>Serjeant Major <hi>Skipton</hi> hath also tooke great store of Ammunition from <hi>Co<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ham-</hi>Hall in <hi>Kent.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Ordered to be forthwith Printed and pub<g ref="char:EOLhyphen"/>lished.</p>
+                        <closer>
+                           <signed>Hen. Elsynge, Cler. Par. D. C.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
